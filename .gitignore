@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 运行时数据（本插件不写这些，防止误提交）
+config/
+plugin_data/
+data/
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+*.log
+
+# 备份 / 临时文件
+*.bak
+*.bak_*
+*.orig
+*.rej
+*.tmp
+
+# 编辑器与系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

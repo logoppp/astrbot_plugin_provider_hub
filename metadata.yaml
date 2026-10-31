@@ -1,0 +1,7 @@
+name: astrbot_plugin_provider_hub
+display_name: 供应商配置中心
+desc: 扫描所有插件里引用官方 Provider 的配置项（select_provider 系列），在一个页面里统一查看与批量修改，保存后自动重载对应插件。
+help: 在插件详情页打开「provider-hub」页面即可使用。
+version: v1.1.0
+author: logoppp
+repo: https://github.com/logoppp/astrbot_plugin_provider_hub

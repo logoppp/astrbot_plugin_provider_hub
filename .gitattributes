@@ -1,0 +1,10 @@
+# 统一用 LF，避免 Windows 检出时把整仓库改成 CRLF
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.mp4 binary
+*.ico binary
